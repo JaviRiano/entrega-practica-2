@@ -1,0 +1,12 @@
+  {
+    "escenario_1": {
+        "esferas": [
+            {"radio": 0.1, "color": "rojo", "masa": 0.2},
+            {"radio": 0.14, "color": "azul", "masa": 0.30}
+        ],
+        "rampas": [
+            {"inclinacion": 40, "longitud": 2, "friccion": 0.4},
+            {"inclinacion": 60, "longitud": 4.0, "friccion": 0.2}
+        ]
+    }
+}
